@@ -1,4 +1,4 @@
-
+SET(CMAKE_C_COMPILER gcc)
 PROJECT (HELLO)
 
 
