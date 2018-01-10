@@ -7,3 +7,7 @@
 $cmake .
 
 $make
+
+
+问题：execvp: /usr/local/lib/gcc-7.2.0: 权限不够
+解决：SET(CMAKE_C_COMPILER "/usr/local/lib/gcc-7.2.0")放在project上面

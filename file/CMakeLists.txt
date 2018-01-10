@@ -1,4 +1,4 @@
-SET(CMAKE_C_COMPILER "/usr/local/lib/gcc-7.2.0")
+SET(CMAKE_C_COMPILER gcc)
 PROJECT (HELLO)
 
 
