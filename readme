@@ -1,0 +1,9 @@
+项目文件为helloworld.c和CMakeLists.txt
+
+安装项目C编译器GUN-7.2.0
+安装CMake依赖编译器g++
+
+执行命令
+$cmake .
+
+$make

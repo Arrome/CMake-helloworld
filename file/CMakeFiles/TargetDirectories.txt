@@ -1,0 +1,3 @@
+/home/fireworm/IdeaProjects/practice/CMake-helloworld/file/CMakeFiles/rebuild_cache.dir
+/home/fireworm/IdeaProjects/practice/CMake-helloworld/file/CMakeFiles/hello.dir
+/home/fireworm/IdeaProjects/practice/CMake-helloworld/file/CMakeFiles/edit_cache.dir
